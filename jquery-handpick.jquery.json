@@ -1,0 +1,28 @@
+{
+  "name": "jquery-handpick",
+  "title": "jQuery plugin to extend html select element",
+  "description": "jQuery plugin to extend html select element",
+  "version": "0.0.1",
+  "homepage": "https://github.com/viclim/jquery.handpick",
+  "author": {
+    "name": "Lim Victor",
+    "url": "https://github.com/viclim"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viclim/jquery.handpick"
+  },
+  "bugs": "https://github.com/viclim/jquery.handpick/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~v2.1.0"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
